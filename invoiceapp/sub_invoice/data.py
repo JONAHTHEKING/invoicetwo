@@ -1,0 +1,22 @@
+data=[
+    {
+    "invoice_id":1,
+    "client_name":"krupakar",
+    "date":"2023-06-22",
+    "items":[
+        {
+        "desc":"product 1",
+        "rate":200,
+        "quantity":3
+    }
+    ],
+}
+]
+userData=[
+    {
+    "user_id":1,
+    "name":"krupakar",
+    "email":"krupakar123k@gmail.com",
+    "password":"krupa123",
+}
+]
